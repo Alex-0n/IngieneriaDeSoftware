@@ -1,0 +1,33 @@
+/* El símbolo # indica que buscamos un ID */
+#mainTittle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 200%;
+    background-color: #386294ff;
+    padding: 2rem;
+    border: 2rem solid #386294ff;
+    border-radius: 2rem;
+    text-align: center;
+}
+
+#Formulario{
+    background-color: #f1f4f8ff;
+    padding-bottom:5rem;
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: 2rem solid #f1f4f8ff;
+    border-radius: 2rem;
+    text-align: center;
+}
+
+#workerImageLogo{
+    height: 60px; /* Alto fijo */
+    width: auto;  /* El ancho se ajusta automáticamente */
+}
+
+#texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 200%;
+}
