@@ -1,0 +1,26 @@
+{
+  "name": "ingieneriadesoftware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DANYR8/IngieneriaDeSoftware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DANYR8/IngieneriaDeSoftware/issues"
+  },
+  "homepage": "https://github.com/DANYR8/IngieneriaDeSoftware#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.103.0",
+    "pg": "^8.20.0",
+    "postgresql": "^0.0.1"
+  }
+}
