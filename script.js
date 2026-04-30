@@ -62,3 +62,4 @@ function ubicar() {
     console.log("Auto:", lat, lon);
   });
 }
+
