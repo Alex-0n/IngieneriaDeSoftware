@@ -1,0 +1,98 @@
+body {
+  background-color: white;
+}
+
+/*imgsoporte*/
+.contenedor {
+  position: relative;
+  height: 300px;
+  background: none;
+}
+
+.img {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50px;
+  right: 100px;
+}
+
+.servicio0 {
+    background-color: transparent; 
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border: 2px solid #386294;
+    position: absolute;
+     top: 105px;
+     left: 400px;
+}
+
+.servicio0:hover {
+    background-color:#386294;
+    color:white;
+}
+
+.servicio1 {
+    background-color: transparent; 
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border: 2px solid #386294;
+    position: absolute;
+     top: 170px;
+     left: 400px;
+}
+
+.servicio1:hover {
+    background-color:#386294;
+    color:white;
+}
+
+.servicio2 {
+    background-color: transparent; 
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border: 2px solid #386294;
+    position: absolute;
+     top: 235px;
+     left: 400px;
+}
+
+.servicio2:hover {
+    background-color:#386294;
+    color:white;
+}
+
+.servicio3 {
+    background-color: transparent; 
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border: 2px solid #386294;
+    position: absolute;
+     top: 295px;
+     left: 400px;
+}
+
+.servicio3:hover {
+    background-color:#386294;
+    color:white;
+}
+
+.servicio4 {
+    background-color: transparent; 
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border: 2px solid #386294;
+    position: absolute;
+     top: 360px;
+     left: 400px;
+}
+
+.servicio4:hover {
+    background-color:#386294;
+    color:white;
+}
